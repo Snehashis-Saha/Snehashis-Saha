@@ -1,9 +1,9 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi, I'm Snehashis Saha! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FF4A4A&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;C%2FC%2B%2B+DSA+Warrior;Spring+Boot+%7C+MySQL+%7C+React+JS;Anime+%7C+Coding+%7C+Gaming+Lover" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FF4A4A&center=true&vCenter=true&width=435&lines=Backend+Developer;C%2FC%2B%2B+DSA;Spring+Boot+%7C+MySQL+%7C;Coding+%7C+Gaming+Lover" />
 </p>
 
 ---
@@ -45,7 +45,7 @@
 ---
 
 ### 📬 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/snehashis-saha](https://www.linkedin.com/in/snehashis-saha-613351222/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/snehashis-saha])(https://www.linkedin.com/in/snehashis-saha-613351222/)
 [![Instagram](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram)]([https://instagram.com/your_username](https://www.instagram.com/snehashis_83/))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssnehashis83@gmail.com)
 

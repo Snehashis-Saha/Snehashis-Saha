@@ -45,8 +45,11 @@
 
 ---
 
-# 👋 Hi  
-## My name is **Snehashis Saha**
+<h1 align="center">Hi, I'm Snehashis Saha! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FF4A4A&center=true&vCenter=true&width=435&lines=Backend+Developer;C%2FC%2B%2B+DSA;Spring+Boot+%7C+MySQL+%7C;Coding+%7C+Gaming+Lover" />
+</p>
 
 I am a **Backend Developer** driven to expand my skills and knowledge.
 

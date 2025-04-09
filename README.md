@@ -31,21 +31,9 @@
 
 ---
 
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Snehashis-Saha&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Snehashis-Saha&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehashis-Saha&layout=compact&theme=radical" />
-</p>
-
----
 
 ### 📬 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/snehashis-saha])(https://www.linkedin.com/in/snehashis-saha-613351222/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/snehashis-saha-613351222/)
 [![Instagram](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram)]([https://instagram.com/your_username](https://www.instagram.com/snehashis_83/))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssnehashis83@gmail.com)
 
@@ -104,6 +92,14 @@ I am a passionate backend developer with a strong foundation in C++ and Java pro
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Snehashis-Saha&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api?username=Snehashis-Saha&show_icons=true&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehashis-Saha&layout=compact&theme=dark" />
+</p>
+
+---
+## LeetCode Stats  
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ssnehashis83?theme=dark&font=baloo&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/ssnehashis83?theme=dark&font=baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/ssnehashis83?theme=dark&font=baloo&ext=ranking" />
 </p>
 
 ---

@@ -9,10 +9,8 @@
 ---
 
 ### ✨ About Me:
-- 🎓 Batchelor of Computer Application
-- ⚙️ Languages: C, C++, Java, JavaScript
-- 🚀 Currently exploring: **Backend Development, Spring Boot, System Design**
-- 🧠 Passion: Solving DSA problems, Exploring new technologies
+**Passionate Full Stack Developer**  
+**Batchelor of Computer Application**  
 
 
 ---
@@ -90,16 +88,14 @@ I am a passionate backend developer with a strong foundation in C++ and Java pro
 ## GitHub Stats  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Snehashis-Saha&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Snehashis-Saha&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Snehashis-Saha&show_icons=true&theme=dark" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehashis-Saha&layout=compact&theme=dark" />
 </p>
 
 ---
 ## LeetCode Stats  
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/ssnehashis83?theme=dark&font=baloo&ext=contest" />
   <img src="https://leetcard.jacoblin.cool/ssnehashis83?theme=dark&font=baloo&ext=heatmap" />
-  <img src="https://leetcard.jacoblin.cool/ssnehashis83?theme=dark&font=baloo&ext=ranking" />
 </p>
 
 ---
